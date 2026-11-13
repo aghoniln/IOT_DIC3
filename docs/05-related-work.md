@@ -100,3 +100,4 @@ Existing research demonstrates fractured progress:
 DietSense directly reconciles these trade-offs by integrating:
 $$\text{Natural Dialogue} + \text{Taiwanese Food Anchoring} + \text{Tool-Based Determinism} + \text{Uncertainty Propagation} + \text{Rule Safety Guard}$$
 This transforms passive calorie logging into a reliable, active, and culturally aware domain agent.
+

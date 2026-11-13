@@ -27,3 +27,4 @@ This document serves as the bibliographic foundation for DietSense, verifying ke
 ## 3. Data Sources & Composition Databases
 19. **Taiwan Food and Drug Administration (TFDA)**, "Taiwan Food Composition Database (食品營養成分資料庫)," Ministry of Health and Welfare, Taiwan, 2023.
 20. **U.S. Department of Agriculture (USDA)**, "FoodData Central," Agricultural Research Service, 2023. [Online]. Available: https://fdc.nal.usda.gov/
+
