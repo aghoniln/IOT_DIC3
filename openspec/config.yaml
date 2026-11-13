@@ -1,0 +1,22 @@
+schema: spec-driven
+
+# Project context (optional)
+context: |
+  Project: DietSense — a data-grounded, safety-aware conversational Domain AI Agent
+  for dietary assessment and weight management (NCHU DIC3 final project).
+  Write prose in Traditional Chinese (zh-TW); keep technical identifiers,
+  requirement keywords (SHALL/MUST) and scenario headers in English.
+  Core principle: "LLM orchestrates, deterministic domain tools compute" —
+  the LLM must never be the source of any kcal/macro number or medical advice.
+  Proposal stage: every performance number is an Expected Outcome, never a result.
+  Architecture must keep the course-mandated 8 modules (①–⑧).
+  Safety floor: < 1,200 kcal/day triggers warning; pregnancy, chronic disease,
+  medication and eating-disorder signals are routed to professionals.
+
+rules:
+  proposal:
+    - Map every capability to at least one of the 5 core mindsets or 3 controversies
+    - Always state what is out of scope
+  tasks:
+    - Each task must reference the module number (①–⑧) it touches
+    - Include an evaluation task for every Expected Outcome metric
